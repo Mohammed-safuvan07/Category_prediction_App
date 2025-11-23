@@ -35,6 +35,7 @@
 **5. How to Run the App**
 
     * Step 1: Install dependencies`
-       **pip install -r requirements.txt**                                                                                      
+       pip install -r requirements.txt
+       
     * Step 2: Run the Streamlit app   
-        **streamlit run app.py**    
+        streamlit run app.py    
